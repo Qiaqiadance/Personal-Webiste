@@ -1,4 +1,4 @@
-# CharlesLuo
+# Personal Website with Html5 and CSS
 The personal website created by using Dreamweaver.
 In this project, I created a personal website that shows my media works, social media highlights, and also the previous video projects. 
 
